@@ -1,0 +1,1 @@
+**** Se produjo un error leyendo 'errores.log' **** src\errores.log

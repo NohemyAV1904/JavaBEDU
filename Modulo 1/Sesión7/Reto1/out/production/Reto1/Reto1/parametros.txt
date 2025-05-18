@@ -1,0 +1,4 @@
+---- Texto escrito desde código en Java ---
+• Tiempo de ciclo: 55.8 s
+• Velocidad de línea: 1.2 m/s
+• Número de estaciones: 8
